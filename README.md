@@ -1,6 +1,6 @@
 Hi there. I am Moritz Valentino 🌸 
 
-I work as a data journalist. I am very much interested in the political economy of data and how data (science) can be used to uncover structural inequalities and discriminations. 
+I work as a <span style="color:darkred">data journalist</span> I am very much interested in the <span style="color:darkblue">political economy of data</span> and how data (science) can be used to <span style="color:red">uncover structural inequalities and discriminations</span>.
 
 Some stories I published this year that I am proud of include 
 - **Berlin's Missing Teachers**. Berlin has an educational crisis. But are all students affected equally? I scraped data for all public schools in Berlin and showed how the lack of teachers overproportionally affetcs poor neighbourhoods. We created an (interactive map)[https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) and a (narrative piece)[https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/]. 
