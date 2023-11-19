@@ -1,12 +1,16 @@
-Hi there. I am Moritz Valentino 🌸 
+hi there. I am interested in the <b>political (economy) of data and how data (science) can be used to uncover structural inequalities</b>. Before turning to journalism I worked as a reasearcher at the Free University of Berlin and taught a class on <a href="https://moritzvalentinomatzner.shinyapps.io/kdst/">Critical Data Science</a>. I hold an MA in Political Science from FU Berlin and a MA in International Security from Sciences Po Paris. 
+<br>
 
-I work as a data journalist. I am interested in the political (economy) of data and how data (science) can be used to uncover structural inequalities. I also like to write. 
+You can find my website <a href="https://moritzvalentinomatzner.github.io/">here</a>. 
+<br>
 
-Some stories I published this year that I am proud of include
-- *Berlin's Missing Teachers*. Berlin has an educational crisis. But are all students affected equally? I scraped data for public schools in Berlin and showed how the lack of teachers overproportionally affetcs poor neighbourhoods. | *Berliner Bildungskrise: Die Klassenfrage*. Drei Viertel aller öffentlichen Schulen in Berlin hatten im Schuljahr 2022/23 zu wenig Lehrkräfte. Doch nicht alle Schüler*innen sind gleich betroffen. Wo der Lehrkräftemangel am größten ist – Schule für Schule. Link to [interactive map](https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/) and [longread](https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/). Paywall. 
-- *Kita Notstand*. Not only public schools, but also the German pre-school system is in crisis. Due to a recent study, more than 380.000 children lack a spot and the system is short of almost 100.000 educators. We created a survey for parents and educators and got more than 6.600 responses. Their analysis paint a dire picture. | *Kitanotstand: Wie das System versagt*. Die deutschen Kitas stehen vor dem Zusammenbruch: Erzieherinnen vor dem Burnout, Schließungen durch Personalmangel – und Kinder, die nur verwahrt statt gefördert werden. Tausende Kita-Mitarbeitende berichten von ihren Erfahrungen. Link zur [Recherche](https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/) und [Themenseite](https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/). No Paywall. 
-- *Demo Atlas*. We analyzed years and years of data on all demonstrations that took place in Berlin. | *Demo Atlas*. Wofür wird in meiner Nachbarschaft demonstriert?* Ob Aufmarsch Hunderttausender oder Ein-Mann-Kundgebung: Im Schnitt gibt es täglich 16 Demos in Berlin. Wer demonstriert in Ihrer Nachbarschaft – und wofür? Link zur [Karte](https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/) und [Analyse](https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/). No paywall. 
-
-Before turning to journalism I worked as a reasearcher at the Free University of Berlin and taught a class on [Critical Data Science](https://moritzvalentinomatzner.shinyapps.io/kdst/) | Im Wintersemester 2022/23 habe ich als Wissenschaftlicher Mitarbeiter an der FU Berlin gearbeitet. Am Otto-Suhr-Institut für Politikwissenschaft habe ich einen Kurs zu [Kritischer Data Science gegeben](https://moritzvalentinomatzner.shinyapps.io/kdst/) gegeben. 
-
-🌸 In case you are interested in working with me send me a message at | Du erreichst mich unter moritzvalentinomatzner@posteo.net 🌸
+<b>Some stories I published this year include</b>: 
+<br>
+<ul>
+<li><b>Berlin's Missing Teachers</b>. Berlin has an educational crisis. But are all students affected equally? I scraped data for public schools in Berlin and showed how the lack of teachers overproportionally affetcs poor neighbourhoods. <a href="https://interaktiv.tagesspiegel.de/lab/berliner-klassenfrage-hier-gibt-es-am-meisten-unterrichtsausfall-datenanalyse-und-interakive-karte/">Interactive map</a> and <a href="https://interaktiv.tagesspiegel.de/lab/ohne-reserve-eine-berliner-schulleiterin-kaempft-mit-dem-lehrermangel/">longread</a>. In German. </li>
+<li><b>Kita Notstand</b>. Not only public schools, but also the German pre-school system is in crisis. According to a recent study, more than 380.000 spots are missing and the system is short of roughly 100.000 educators. We surveyed more than 6.800 teachers and parents. They paint a dire picture of a collapsing system. <a href="https://correctiv.org/aktuelles/bildung/2023/11/14/kitanotstand-wie-das-system-versagt-personalmangel-erzieher/">Longread</a> and <a href="https://correctiv.org/aktuelles/bildung/2023/11/10/kitanotstand-was-sie-tun-koennen/"> project site</a>. In German. </li>
+<li><b>Demo Atlas</b>. We analyzed years and years of data on all demonstrations that took place in Berlin. <a href="https://interaktiv.tagesspiegel.de/lab/demo-atlas-berlin-wofuer-wird-in-meiner-nachbarschaft-demonstriert/">Map</a> and <a href="https://interaktiv.tagesspiegel.de/lab/demo-analyse-berlin-wofuer-gehen-die-leute-auf-die-strasse/">analysis</a>. In German. </li>
+</ul>
+<br>
+Work with me 🌸 You can reach me at moritzvalentinomatzner@posteo.net.  
+</details>
